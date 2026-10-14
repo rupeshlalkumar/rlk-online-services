@@ -1,0 +1,6 @@
+{
+  "name": "RLK Online Services",
+  "description": "Online Cafe, Digital Services & Computer Solutions in India. Reliable assistance with online forms, documentation, certificates, printing, business setup, and English guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
